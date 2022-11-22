@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'backend-agenda-pia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D86956EFD17646AE83FA4D6397A46BB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37B9AC1202834D94908227D0E1DC887A }}
